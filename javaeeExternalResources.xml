@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="sap.m" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.m.xsd" />
+    <resource url="sap.ui.core" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.core.xsd" />
+  </component>
+</application>

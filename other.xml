@@ -1,0 +1,59 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="11.0.0" last-modified="1540290148000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8768657" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.64893615" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Monokai Pro" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Material Lighter" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="watcher&#10;eslint" />
+    <property name="LAST_INJECTED_LANGUAGE" value="HTML" />
+    <property name="MochaJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="MochaJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="MochaJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="PLUGIN_FILTER" value="material theme&#10;material" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="settings repo&#10;unn&#10;code&#10;wat&#10;margin" />
+    <property name="SplitFileEditor.Proportion" value="0.51686823" />
+    <property name="TrendingPluginsSearchHistory" value="settings repository&#10;rainglow" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.44667202" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="C:/Users/I326575&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/ui5_template_project/webapp&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/sapui5workspace&#10;C:/Users/I326575/AppData/Roaming/npm/eslint.cmd&#10;C:/Users/I326575/AppData/Roaming/npm/node_modules/eslint/bin/eslint.js&#10;C:/Users/I326575/AppData/Roaming/npm/node_modules/eslint&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/ui5_template_project/node_modules/eslint&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/ui5_template_project/node_modules/eslint-config-airbnb&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/ui5_template_project/.eslintrc&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/UI5Babel&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/02 Megafon&#10;C:/Users/I326575/AppData/Roaming/npm/prettier.cmd&#10;C:/Users/I326575/AppData/Roaming/npm/node_modules/prettier&#10;C:/Users/I326575/AppData/Roaming/npm/node_modules/grunt-cli&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/sapui5_sdk/resources/sap-ui-core-all-dbg.js&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.core.xsd&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.m.xsd&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/ui5-schemas/sapui5/sap.ui.core.xsd&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/ui5-schemas/sapui5/sap.m.xsd&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/src/ui/.ui5&#10;C:/Users/I326575/Documents/!SAPUI5_Projects&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/99 Other/GitLab-CI-UI5-DemoApp&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/sapui5-dist-static-1.52.20&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/db/src/sap_ui/ui/requests/webapp/controller/tabs/EntryContent.controller.js&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/Smart-Controls&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/05 sberbank.vacancies&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/db/src/sap_ui/ui/content/webapp/manifest.json&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/db/src/sap_ui/ui/content/webapp/Component.js&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/db/src/sap_ui/ui/content/webapp/view/RecordList.view.xml&#10;C:/Users/I326575/Documents/!SAPUI5_Projects/04 Surgutneftegaz/refMaintenance/db/src/sap_ui/ui/content/webapp/view/Object.view.xml" />
+    <property name="file.gist.reindex.count" value="462106" />
+    <property name="fileTypeChangedCounter" value="78" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="54975" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="rerun.tests.notification.shown" value="true" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6658805" />
+    <property name="vcs.log.details.splitter.proportion" value="0.93690854" />
+    <property name="vcs.log.diff.splitter.proportion" value="0.8103119" />
+  </component>
+</application>
