@@ -1,5 +1,1 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-</keymap>
+<keymap version="1" name="Default copy" parent="$default" />
