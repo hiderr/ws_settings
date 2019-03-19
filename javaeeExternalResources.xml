@@ -1,6 +1,12 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="sap.f" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.f.xsd" />
     <resource url="sap.m" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.m.xsd" />
+    <resource url="sap.ui.comp.smartfilterbar" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.comp.xsd" />
+    <resource url="sap.ui.comp.smarttable" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.comp.xsd" />
     <resource url="sap.ui.core" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.core.xsd" />
+    <resource url="sap.ui.core.mvc" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.core.xsd" />
+    <resource url="sap.ui.layout" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.layout.xsd" />
+    <resource url="sap.ui.layout.form" location="$USER_HOME$/Documents/!SAPUI5_Projects/sapui5_sdk/downloads/schemas/sap.ui.layout.xsd" />
   </component>
 </application>
