@@ -1,0 +1,19 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.int.sap.eu2.hana.ondemand.com" />
+          <option name="userName" value="C5194435" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.wdf.sap.corp" />
+          <option name="userName" value="C5194435" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
+</application>

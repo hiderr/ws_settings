@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="quokka" type="Native" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="WalkinFormValueHelpDialog" type="XML" />
+    </extensionMap>
+  </component>
+</application>
