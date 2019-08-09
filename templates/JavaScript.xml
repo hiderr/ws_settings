@@ -1,7 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="cstm" value="sap.ui.define(['sap/ui/core/Control'], Control =&gt; Control.extend('myfiori.controls.template', {&#10;  metadata: {&#10;    properties: {&#10;&#10;    },&#10;    events: {&#10;&#10;    },&#10;    aggregations: {&#10;&#10;    },&#10;    methods: {&#10;&#10;    }&#10;  },&#10;  init() {},&#10;  renderer: {&#10;    render(oRM, oControl) {&#10;&#10;    }&#10;  }&#10;}));" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
