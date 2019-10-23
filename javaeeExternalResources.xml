@@ -1,7 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="sap.m" location="$USER_HOME$/Documents/sapui5-sdk-1.64.0/downloads/schemas/sap.m.xsd" />
-    <resource url="sap.ui.core" location="$USER_HOME$/Documents/sapui5-sdk-1.64.0/downloads/schemas/sap.ui.core.xsd" />
     <ignored-resource url="sap.evonsi.m" />
   </component>
 </application>
